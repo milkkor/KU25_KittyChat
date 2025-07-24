@@ -1,2 +1,0 @@
-# KU25_KittyChat
-
